@@ -1,0 +1,51 @@
+<style media="screen">
+      body{
+        margin:10;
+      }
+      body.black{
+        background-color: black;
+        color: white;
+      }
+      header{
+          border-bottom: 2px solid gray;
+          padding-left: 30px;
+
+      }
+      nav{
+        border-right: 2px solid gray;
+        width:200px;
+        height:800px;
+        float:left;
+      }
+      nav ol{
+        margin:10px;
+        padding:20px;
+        list-style: none;
+      }
+      #content{
+        padding-left: 20px;
+        float: left;
+        width:100px;
+        margin:10px;
+
+      }
+      #move{
+        margin:20px;
+        float: left;
+        padding-left: 10px;
+      }
+article{
+  width: 500px;
+  float:right;
+  padding-left: :500px;
+
+}
+
+h1  {
+    color: #ffffff;
+    font-family: 'Lobster';
+}
+h2{
+  font-family: 'Lobster';
+}
+</style>
